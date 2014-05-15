@@ -1,5 +1,0 @@
-datasciencecoursera
-===================
-
-Coursera Data Scientist
-
